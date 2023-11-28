@@ -62,7 +62,7 @@ After selecting an option, simply follow the on-screen prompts to proceed.
 Additionally, I've included a helpful video demonstration to guide you through the process.
  
 
-Tutorial video video [🎬](https://drive.google.com/file/d/1eGb1y5-YYKMo2iVhlKdDfRPjQ9sxFzQF/view?usp=drive_link)
+Tutorial video [🎬](https://drive.google.com/file/d/1eGb1y5-YYKMo2iVhlKdDfRPjQ9sxFzQF/view?usp=drive_link)
 
 ## License
 
