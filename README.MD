@@ -60,10 +60,9 @@ Once the program starts, you'll see a variety of options. Choose the one that fi
 
 After selecting an option, simply follow the on-screen prompts to proceed.
 Additionally, I've included a helpful video demonstration to guide you through the process.
+ 
 
-![Employee Tracker video]
-
-Alternative video [🎬](https://drive.google.com/file/d/1eGb1y5-YYKMo2iVhlKdDfRPjQ9sxFzQF/view?usp=drive_link)
+Tutorial video video [🎬](https://drive.google.com/file/d/1eGb1y5-YYKMo2iVhlKdDfRPjQ9sxFzQF/view?usp=drive_link)
 
 ## License
 
