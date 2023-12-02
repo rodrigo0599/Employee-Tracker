@@ -64,6 +64,8 @@ Additionally, I've included a helpful video demonstration to guide you through t
 
 Tutorial video [🎬](https://drive.google.com/file/d/1eGb1y5-YYKMo2iVhlKdDfRPjQ9sxFzQF/view?usp=drive_link)
 
+![main video](./images/employeetracker.gif)
+
 ## License
 
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
